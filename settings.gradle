@@ -1,0 +1,2 @@
+include ':animdialog'
+rootProject.name = "AnimDialog"
